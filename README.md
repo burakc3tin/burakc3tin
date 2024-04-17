@@ -11,7 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Burak Çetin, Software Developer 💻,  Learner 👨‍💻 Nature Lover 🌳 from Turkey 🇹🇷 .
+  Hi, I'm Burak Çetin, Software Developer 💻 Learner 👨‍💻 Nature Lover 🌳 from Turkey 🇹🇷 .
   <br />
   <br />
   🎓 Graduated from Düzce University Computer Engineering.
