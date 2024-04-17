@@ -18,7 +18,7 @@
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I continue to improve myself in Javascript technologies. I am interested and curious about machine learning, Python and Java.
+  🧑‍💼 I continue to improve myself in Javascript technologies. Mainly React, React Native, Nodejs. I am interested and curious about machine learning, Python and Java.
   <br />
 </p>
 
