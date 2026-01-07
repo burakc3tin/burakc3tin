@@ -18,8 +18,7 @@
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I continue to improve myself in Javascript technologies. Mainly React, React Native, Nodejs. I am interested UI-UX and Back End Development with Front End.
-  <br />
+ 
 </p>
 
 <!-- social handles -->
