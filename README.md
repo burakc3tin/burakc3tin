@@ -32,9 +32,4 @@
 
  
 
-
-
-<!-- show more repos -->
-<h4 align="center">
-  <a href="https://github.com/burakc3tin?tab=repositories" title="Show Repositories">🔎 Show More Projects 🔍</a>
-</h4>
+ 
