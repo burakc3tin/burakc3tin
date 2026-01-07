@@ -30,23 +30,7 @@
   <a href="https://www.linkedin.com/in/burakc3tin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<hr />
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br />
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongo,git,github" alt="My Skills" />
-  </a>
-</p>
-<br />
-
-<h4 align="center">Learning</h4>
-<br />
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,ts" alt="My Skills" />
-  </a>
-</p>
+ 
 
 
 
